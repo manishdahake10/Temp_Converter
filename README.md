@@ -59,7 +59,7 @@ Once the program runs, the user will be able to:
 ## Code Structure
 The project consists of the following structure:
 
-- TC.java: The main Java file that handles the GUI and conversion logic.
+- `TC.java`: The main Java file that handles the GUI and conversion logic.
 - The GUI components are set up using Java Swing.
 - Temperature conversion logic is implemented using simple mathematical formulas for each unit.
 
@@ -71,4 +71,4 @@ Manish Dahake
 GitHub: manishdahake10
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
