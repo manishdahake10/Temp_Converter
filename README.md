@@ -10,9 +10,6 @@ This is a **Temperature Converter** application built using Java with a Graphica
 - Option to clear the input fields for a new conversion.
 - Error handling for invalid input to ensure a smooth user experience.
 
-## Class Name
-- `TC`: The main class that handles the temperature conversion logic and the GUI.
-
 ## Technologies Used
 - **Java**: The programming language used for building the application.
 - **Swing**: Java's GUI toolkit used to create the graphical user interface.
